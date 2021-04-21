@@ -10,6 +10,7 @@ def main_function():
     main_menu_root.minsize(400, 400)
     main_menu_root.resizable(False, False)
     main_menu_root.title("PERSONAL ACCOUNT KEEPER")
+    main_menu_root.iconbitmap(os.path.join('FILES', 'icons', 'kit.ico'))
 
     def home_accounting():
         main_menu_root.destroy()
