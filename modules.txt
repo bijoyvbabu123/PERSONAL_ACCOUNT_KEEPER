@@ -1,0 +1,10 @@
+This file is to keep a record of all the modules created and its use.
+
+PERSONAL_ACCOUNT_KEEPER.py - The main initial module. (only calling other modules)
+
+MAIN_MENU_WINDOW.py - The first module to be called by the initial module. (shows the different facilites and buttons to navigate to it)
+
+HOME_ACC_MENU.py - Shows available facilities under home accounting option from main menu.
+HOME_ACC_EXP_ENTRY.py - entering the experditure records.
+HOME_ACC_EXP_HISTORY.py - viewing the previous expenditure records.
+HOME_ACC_BACKUP.py - back up facility for the home expenditure records.
